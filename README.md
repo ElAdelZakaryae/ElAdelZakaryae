@@ -1,16 +1,124 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm EL-ADEL Zakaryae</h1>
 
-<!--
-**ElAdelZakaryae/ElAdelZakaryae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Mobile & Web Developer from Morocco 🇲🇦
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Specialized in Flutter, Flask REST APIs, MySQL and Clean Architecture
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently developing **Newrest Inventory**, a mobile and web inventory-management system.
+
+- 📱 I build cross-platform applications using **Flutter and Dart**.
+
+- ⚙️ I develop REST APIs using **Python and Flask**.
+
+- 🗄️ I work with **MySQL, Firebase, Render, Railway and Docker**.
+
+- 🌱 I’m currently improving my knowledge of **backend development, application architecture and deployment**.
+
+- 🎓 Specialized Technician in Digital Development – Full-Stack option.
+
+- 📍 Based in **Tangier, Morocco**.
+
+- 📫 Contact me at **eladel.zakaryae.15@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://github.com/ElAdelZakaryae" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/el-adel-zakaryae-156b782b0/" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:eladel.zakaryae.15@gmail.com" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,py,flask,mysql,firebase,html,css,js,php,java,git,github,docker,androidstudio,vscode,figma"
+    alt="Languages and tools"
+  />
+</p>
+
+<h2 align="left">Featured Projects</h2>
+
+<h3>📦 Newrest Inventory</h3>
+
+<p>
+  A mobile and web inventory-management solution designed to digitize
+  stock-counting operations, monitor product levels and centralize
+  inventory information.
+</p>
+
+<p>
+  The system includes inventory creation and validation, stock alerts,
+  product configuration, reports, order management, user roles,
+  PDF and Excel exports, and push notifications.
+</p>
+
+<p>
+  <strong>Technologies:</strong>
+  Flutter, Dart, Python, Flask, MySQL, Firebase, Docker, Render and Railway.
+</p>
+
+<p>
+  <a href="FIRST_PROJECT_SHOWCASE_URL" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/View_Project-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+      alt="View Newrest Inventory"
+    />
+  </a>
+</p>
+
+<hr>
+
+<h3>🚀 SECOND PROJECT NAME</h3>
+
+<p>
+  Add a brief description explaining the problem this project solves
+  and its primary purpose.
+</p>
+
+<p>
+  Add its most important features and explain what users can accomplish
+  with the application.
+</p>
+
+<p>
+  <strong>Technologies:</strong>
+  ADD_PROJECT_TECHNOLOGIES
+</p>
+
+<p>
+  <a href="SECOND_PROJECT_URL" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+      alt="View second project"
+    />
+  </a>
+</p>
+
+<h2 align="left">GitHub Statistics</h2>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ElAdelZakaryae&show_icons=true&theme=transparent&hide_border=true"
+    alt="Zakaryae's GitHub statistics"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAdelZakaryae&layout=compact&theme=transparent&hide_border=true"
+    alt="Zakaryae's most used languages"
+  />
+</p>
