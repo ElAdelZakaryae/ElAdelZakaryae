@@ -98,31 +98,47 @@
 
 <hr>
 
-<h3>🚀 SECOND PROJECT NAME</h3>
+<h3>⚙️ Newrest Inventory REST API</h3>
 
 <p>
-  Add a brief description explaining the problem this project solves
-  and its primary purpose.
+  A RESTful backend API developed to power the Newrest Inventory mobile and
+  web applications. It centralizes business logic, processes requests from
+  both interfaces, and provides secure access to the MySQL database.
 </p>
 
 <p>
-  Add its most important features and explain what users can accomplish
-  with the application.
+  The API manages authentication, users and roles, products, stock quantities,
+  inventories, alerts, reports, replenishment suggestions, purchase orders,
+  attachments, and exported-file history.
+</p>
+
+<p>
+  It also integrates Firebase Cloud Messaging to send push notifications
+  when important operations occur, such as inventory validation, stock
+  configuration updates, low-stock detection, and report generation.
+</p>
+
+<p>
+  The backend follows a modular structure, uses environment variables to
+  protect sensitive configuration, and is containerized with Docker for
+  consistent development and deployment.
 </p>
 
 <p>
   <strong>Technologies:</strong>
-  ADD_PROJECT_TECHNOLOGIES
+  Python, Flask, MySQL, SQLAlchemy, Firebase Admin SDK, REST API,
+  JWT Authentication, Docker, Render and Railway.
 </p>
 
 <p>
-  <a href="SECOND_PROJECT_URL" rel="noreferrer">
+  <a href="[YOUR_FLASK_BACKEND_REPOSITORY_URL](https://github.com/ElAdelZakaryae/Backend_newrest_inventory_clean_archeticture)" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"
-      alt="View second project"
+      src="https://img.shields.io/badge/View_Backend_API-6C63FF?style=for-the-badge&logo=flask&logoColor=white"
+      alt="View Newrest Inventory Flask backend"
     />
   </a>
 </p>
+
 
 <h2 align="left">GitHub Statistics</h2>
 
