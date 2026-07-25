@@ -1,59 +1,87 @@
+<h1 align="center">Hi 👋, I'm EL-ADEL Zakaryae</h1>
+
+<h3 align="center">
+  Mobile & Web Developer from Morocco 🇲🇦
+</h3>
+
+<p align="center">
+  Specialized in Flutter, Flask REST APIs, MySQL and Clean Architecture
+</p>
+
+- 🔭 I’m currently developing **Newrest Inventory**, a mobile and web inventory-management system.
+
+- 📱 I build cross-platform applications using **Flutter and Dart**.
+
+- ⚙️ I develop REST APIs using **Python and Flask**.
+
+- 🗄️ I work with **MySQL, Firebase, Render, Railway and Docker**.
+
+- 🌱 I’m currently improving my knowledge of **backend development, application architecture and deployment**.
+
+- 🎓 Specialized Technician in Digital Development – Full-Stack option.
+
+- 📍 Based in **Tangier, Morocco**.
+
+- 📫 Contact me at **eladel.zakaryae.15@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://github.com/ElAdelZakaryae" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/el-adel-zakaryae-156b782b0/" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:eladel.zakaryae.15@gmail.com" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,py,flask,mysql,firebase,html,css,js,php,java,git,github,docker,androidstudio,vscode,figma"
+    alt="Languages and tools"
+  />
+</p>
+
 <h2 align="left">Featured Projects</h2>
 
 <h3>📦 Newrest Inventory</h3>
 
 <p>
-  A complete mobile and web inventory-management solution designed to
-  digitize stock-counting operations, monitor product quantities, centralize
-  inventory information, and support replenishment decisions.
-</p>
-
-<h4>✨ Main Features</h4>
-
-<ul>
-  <li>Inventory creation, saving, modification, and validation.</li>
-  <li>Real-time monitoring of current and theoretical stock quantities.</li>
-  <li>Low-stock detection based on configurable minimum and maximum quantities.</li>
-  <li>Product configuration by site, category, supplier, and storage location.</li>
-  <li>Stock alerts and Firebase push notifications.</li>
-  <li>Inventory, product, category, and consumption reports.</li>
-  <li>PDF and Excel report generation and export history.</li>
-  <li>Role-based access for managers, assistant managers, auditors, and stock managers.</li>
-  <li>User and site management through the web dashboard.</li>
-  <li>Responsive mobile and web interfaces with light and dark themes.</li>
-</ul>
-
-<h4>🔄 Replenishment and Order Management</h4>
-
-<p>
-  The replenishment feature helps users identify products that need to be
-  reordered by comparing their current stock with their configured minimum
-  and maximum quantities.
+  A mobile and web inventory-management solution designed to digitize
+  stock-counting operations, monitor product levels and centralize
+  inventory information.
 </p>
 
 <p>
-  When a product requires replenishment, the system calculates a suggested
-  order quantity. The user can start a new order directly from the product
-  configuration page, with information such as the product, supplier,
-  delivery site, unit price, and suggested quantity automatically prefilled.
+  The system includes inventory creation and validation, stock alerts,
+  product configuration, reports, order management, user roles,
+  PDF and Excel exports, and push notifications.
 </p>
 
 <p>
-  Orders can be saved as drafts, modified, completed, cancelled, and tracked
-  until delivery. The system also supports multiple order items, file
-  attachments, previous-order reuse, PDF and Excel exports, and an order
-  history for easier operational follow-up.
+  It also includes a replenishment feature that detects products requiring
+  restocking by comparing their current quantities with their configured
+  minimum and maximum stock levels. The system calculates a suggested order
+  quantity and allows users to create an order with the product, supplier,
+  delivery site, unit price and quantity automatically prefilled.
 </p>
 
-<h4>🛠️ Technologies</h4>
+<p>
+  Orders can be saved as drafts, modified, completed, cancelled and tracked
+  until delivery. The order-management module also supports multiple products,
+  attachments, previous-order reuse and order-history exports.
+</p>
 
 <p>
-  <strong>Frontend:</strong> Flutter and Dart for Android and Web.<br>
-  <strong>Backend:</strong> Python and Flask REST API.<br>
-  <strong>Database:</strong> MySQL.<br>
-  <strong>Notifications:</strong> Firebase Cloud Messaging.<br>
-  <strong>Architecture:</strong> Clean Architecture.<br>
-  <strong>Deployment:</strong> Docker, Render, and Railway.
+  <strong>Technologies:</strong>
+  Flutter, Dart, Python, Flask, MySQL, Firebase, Docker, Render and Railway.
 </p>
 
 <p>
@@ -62,18 +90,10 @@
     rel="noreferrer"
   >
     <img
-      src="https://img.shields.io/badge/View_Project_Showcase-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-      alt="View Newrest Inventory showcase"
+      src="https://img.shields.io/badge/View_Project-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+      alt="View Newrest Inventory"
     />
   </a>
-</p>
-
-<p>
-  <em>
-    This public repository is a visual portfolio showcase containing project
-    details and mobile/web screenshots. The production source code and
-    company data remain private.
-  </em>
 </p>
 
 <hr>
@@ -102,4 +122,20 @@
       alt="View second project"
     />
   </a>
+</p>
+
+<h2 align="left">GitHub Statistics</h2>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ElAdelZakaryae&show_icons=true&theme=transparent&hide_border=true"
+    alt="Zakaryae's GitHub statistics"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAdelZakaryae&layout=compact&theme=transparent&hide_border=true"
+    alt="Zakaryae's most used languages"
+  />
 </p>
