@@ -22,7 +22,7 @@
 
 - 📍 Based in **Tangier, Morocco**.
 
-- 📫 Contact me at **eladel.zakaryae.15@gmail.com**
+- 📫 Contact me at <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=eladel.zakaryae.15@gmail.com&amp;su=Contact%20from%20GitHub" target="_blank"><strong>eladel.zakaryae.15@gmail.com</strong></a>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -35,9 +35,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:eladel.zakaryae.15@gmail.com" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=eladel.zakaryae.15@gmail.com&amp;su=Contact%20from%20GitHub" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send me an email" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
