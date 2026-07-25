@@ -144,19 +144,25 @@
   </em>
 </p>
 
+<h2 align="left">GitHub Activity</h2>
 
-<h2 align="left">GitHub Statistics</h2>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ElAdelZakaryae&show_icons=true&theme=transparent&hide_border=true"
-    alt="Zakaryae's GitHub statistics"
-  />
+<p>
+  Explore my public repositories, technical showcases, and recent
+  contributions on GitHub.
 </p>
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElAdelZakaryae&layout=compact&theme=transparent&hide_border=true"
-    alt="Zakaryae's most used languages"
-  />
+<p>
+  <a href="https://github.com/ElAdelZakaryae?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore Zakaryae's repositories"
+    />
+  </a>
+
+  <a href="https://github.com/ElAdelZakaryae?tab=overview">
+    <img
+      src="https://img.shields.io/badge/View_Contributions-2EA44F?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Zakaryae's GitHub contributions"
+    />
+  </a>
 </p>
