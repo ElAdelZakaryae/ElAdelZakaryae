@@ -131,12 +131,19 @@
 </p>
 
 <p>
-  <a href="[YOUR_FLASK_BACKEND_REPOSITORY_URL](https://github.com/ElAdelZakaryae/Backend_newrest_inventory_clean_archeticture)" rel="noreferrer">
+  <a href="https://github.com/ElAdelZakaryae/newrest-inventory-api-showcase" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/View_Backend_API-6C63FF?style=for-the-badge&logo=flask&logoColor=white"
-      alt="View Newrest Inventory Flask backend"
+      alt="View Newrest Inventory API showcase"
     />
   </a>
+</p>
+
+<p>
+  <em>
+    This repository contains technical documentation and sanitized examples.
+    The production source code, credentials, and company data remain private.
+  </em>
 </p>
 
 
